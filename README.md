@@ -4,3 +4,4 @@ puppet
 ansible
 git
 github
+docker
